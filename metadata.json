@@ -1,0 +1,5 @@
+{
+  "name": "Team Chat Application",
+  "description": "A mock team chat application featuring user authentication, role-based access control (user and admin), and a simulated chat interface. It uses local storage for data persistence without a backend.",
+  "requestFramePermissions": []
+}
